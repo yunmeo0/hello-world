@@ -9,4 +9,3 @@ It now includes steps for GitHub.
 Including how to work with Branches on GitHub.
 
 This line is here to show how amend works.
-I added this line.
